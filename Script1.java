@@ -1,3 +1,4 @@
+package PracticeJava;
 
 
 public class Script1 {
